@@ -6,23 +6,23 @@ Starter for building a [reveal.js] presentation with the help of [webpack] & [re
 
 ```bash
 # install all dependencies
-$ npm install
+$ yarn install
 
 # start presentation & have fun
-$ npm run start
+$ yarn run start
 ```
 
 ### Build
 
 ```bash
 # build a standalone version of presentation into dist folder
-$ npm run build
+$ yarn run build
 ```
 
 ### Deploy
 ```bash
 # build the standalone version and deploys it to github pages
-$ npm run deploy
+$ yarn run deploy
 ```
 
 ### License
