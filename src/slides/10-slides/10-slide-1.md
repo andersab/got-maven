@@ -1,5 +1,5 @@
 ### Common Project structures...
-*you could modify*
+*you could modify but defaults work great*
 
 ```
 <project folder>
