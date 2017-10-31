@@ -1,9 +1,9 @@
-## Maven Features
+## Benefits of Maven
 
-* Consistent project structure
+* Consistency across projects
 * Better dependency management
 * More powerful builds
 * Better debugging
 * Better collaboration
-* Easy componentized builds
+* Easier componentization
 * Reduce duplication
