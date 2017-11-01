@@ -1,6 +1,7 @@
 ### Common Project structures...
 *you could modify but defaults work great*
 
+**Make it easy for people to move across teams**
 ```
 <project folder>
 /pom.xml (where the magic happens)
